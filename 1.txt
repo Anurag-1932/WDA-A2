@@ -1,0 +1,7 @@
+Status: Suspicious   (events: 4)	
+14/09/2010 12:46:04 PM	Suspicious	legal software that can be used by criminals for damaging your computer or personal data PDM.Suspicious driver installation	C:\PROGRAM FILES (X86)\POWERISO\SETUP64.EXE	High	
+14/09/2010 12:46:07 PM	Suspicious	legal software that can be used by criminals for damaging your computer or personal data PDM.Suspicious driver installation	C:\USERS\ANU\DOWNLOADS\POWERISO47.EXE	High	
+11/01/2011 3:21:03 PM	Suspicious	legal software that can be used by criminals for damaging your computer or personal data PDM.Keylogger	kernel mode memory patch	Medium	
+25/03/2011 4:55:31 PM	Suspicious	legal software that can be used by criminals for damaging your computer or personal data PDM.Keylogger	\DRIVER\VMKBD	Medium	
+Status: Infected   (events: 1)	
+30/09/2010 11:47:29 PM	Infected	Trojan program Exploit.Java.Agent.du	http://www.aesox.com/sv/count1.val/vmain.class	High	
